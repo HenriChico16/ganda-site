@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "Deltarune";
+    src: url("PixelOperator8.ttf");
+}
+@font-face {
+    font-family: "DeltaruneTitulo";
+    src: url("PixelOperator8-Bold.ttf");
+}
+
+#Titulo {
+    color: rgb(255, 255, 255);
+    font-size: 128px;
+    text-align: center;
+    font-family: "DeltaruneTitulo";
+}
+
+#corpo1 {
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    text-align: center;
+    font-family: "Deltarune";
+}
+body {
+    background-image: url("puto.jpg");
+    font-family: "Deltarune";
+}
